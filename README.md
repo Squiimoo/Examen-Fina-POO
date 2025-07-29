@@ -21,7 +21,7 @@ Este sistema permite la gestión de reservas de habitaciones, control de check-i
 ## Instrucciones  
 1. Clonar o descargar este repositorio  
 2. Asegurarse de que la estructura sea:
-  `HotelReservas/
+   HotelReservas/
   ├── .vscode/
   ├── bin/
   ├── data/
@@ -34,7 +34,7 @@ Este sistema permite la gestión de reservas de habitaciones, control de check-i
   │ ├── modelo/
   │ │ └── interfaces/
   │ └── vista/
-  └── README.md`
+  └── README.md
 
 
 3. Compilar desde terminal:
