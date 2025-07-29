@@ -21,7 +21,7 @@ Este sistema permite la gestión de reservas de habitaciones, control de check-i
 ## Instrucciones  
 1. Clonar o descargar este repositorio  
 2. Asegurarse de que la estructura sea:
-  HotelReservas/
+  `HotelReservas/
   ├── .vscode/
   ├── bin/
   ├── data/
@@ -34,10 +34,10 @@ Este sistema permite la gestión de reservas de habitaciones, control de check-i
   │ ├── modelo/
   │ │ └── interfaces/
   │ └── vista/
-  └── README.md
+  └── README.md`
 
 
 3. Compilar desde terminal:
-  javac -d bin src/main/Main.java
+  `javac -d bin src/main/Main.java`
 4. Ejecutar:
-  java -cp bin main.Main
+  `java -cp bin main.Main`
