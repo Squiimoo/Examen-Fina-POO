@@ -21,7 +21,7 @@ Este sistema permite la gestión de reservas de habitaciones, control de check-i
 ## Instrucciones  
 1. Clonar o descargar este repositorio  
 2. Asegurarse de que la estructura sea:
-   HotelReservas/
+   Reservas de Hotel/
   ├── .vscode/
   ├── bin/
   ├── data/
