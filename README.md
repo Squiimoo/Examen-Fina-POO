@@ -55,7 +55,10 @@ Este sistema permite la gestión de reservas de habitaciones, control de check-i
 ---
 
 ## Capturas
-  
+![Image Alt](https://github.com/Squiimoo/Examen-Fina-POO/blob/e16903a9eb53ae2980caa04cc93e021fff01957b/Captura%20de%20pantalla%202025-07-30%20011456.png)
+![Image Alt](https://github.com/Squiimoo/Examen-Fina-POO/blob/e16903a9eb53ae2980caa04cc93e021fff01957b/Captura%20de%20pantalla%202025-07-30%20011518.png)
+![Image Alt](https://github.com/Squiimoo/Examen-Fina-POO/blob/e16903a9eb53ae2980caa04cc93e021fff01957b/Captura%20de%20pantalla%202025-07-30%20011655.png)
+![Image Alt](https://github.com/Squiimoo/Examen-Fina-POO/blob/e16903a9eb53ae2980caa04cc93e021fff01957b/Captura%20de%20pantalla%202025-07-30%20011655.png)
 ---
 
 ## Diagrama UML  
