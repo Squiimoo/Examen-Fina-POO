@@ -35,9 +35,20 @@ Este sistema permite la gestión de reservas de habitaciones, control de check-i
   │ │ └── interfaces/
   │ └── vista/
   └── README.md
-
-
 3. Compilar desde terminal:
   `javac -d bin src/main/Main.java`
 4. Ejecutar:
   `java -cp bin main.Main`
+
+---
+
+## Funcionalidades Clave
+- Registro y listado de clientes y habitaciones
+- Gestión de reservas con validación de fechas
+- Check-in y check-out
+- Cancelación de reservas
+- Filtro de reservas por fecha y apellido
+- Validaciones de campos obligatorios
+- Almacenamiento persistente en archivos .csv
+- Diseño MVC limpio y extensible
+
