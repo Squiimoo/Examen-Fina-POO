@@ -51,4 +51,15 @@ Este sistema permite la gestión de reservas de habitaciones, control de check-i
 - Validaciones de campos obligatorios
 - Almacenamiento persistente en archivos .csv
 - Diseño MVC limpio y extensible
+  
+---
+
+## Capturas
+  
+---
+
+## Diagrama UML  
+
+---
+
 
